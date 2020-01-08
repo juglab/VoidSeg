@@ -4,5 +4,5 @@ If you want to recreate the exacte environment we used for testing, create the c
 `environment.yml` from this directory:
 
 ```bash
-$ conda env create -f VoidSeg_RC/reproducibility/environment.yml
+$ conda env create -f VoidSeg/reproducibility/environment.yml
 ```

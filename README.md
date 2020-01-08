@@ -46,12 +46,12 @@ Once this is done (or you had tensorflow et al. installed already), you can inst
 This option is ideal if you want to edit the code. Clone the repository:
 
 ```
-$ git clone https://github.com/juglab/VoidSeg_RC.git
+$ git clone https://github.com/juglab/VoidSeg.git
 ```
 Change into its directory and install it:
 
 ```
-$ cd VoidSeg_RC
+$ cd VoidSeg
 $ pip install -e .
 ```
 You are now ready to run our notebooks.
