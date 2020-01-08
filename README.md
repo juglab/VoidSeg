@@ -46,12 +46,12 @@ Once this is done (or you had tensorflow et al. installed already), you can inst
 This option is ideal if you want to edit the code. Clone the repository:
 
 ```
-$ git clone https://github.com/juglab/VoidSeg.git
+$ git clone https://github.com/juglab/VoidSeg_RC.git
 ```
 Change into its directory and install it:
 
 ```
-$ cd VoidSeg
+$ cd VoidSeg_RC
 $ pip install -e .
 ```
 You are now ready to run our notebooks.
@@ -63,6 +63,16 @@ the datasets, please see the paper [http://arxiv.org/abs/1911.12239](http://arxi
 ## Network Architectures
 We show all our results for two different network architectures - 3 class U-Net (https://arxiv.org/pdf/1802.07465) 
 and StarDist (https://arxiv.org/pdf/1806.03535).
+
+## Getting Started
+Have a look at our [jupyter notebooks](examples):
+
+* [U-Net baseline (U-Net_Baseline.ipynb)
+* U-Net Sequential (U-Net_Sequential.ipynb)
+* U-Net finetune (U-Net_Finetune.ipynb)
+* U-Net finetune sequential (U-Net_Finetune_Sequential.ipynb)
+* StarDist baseline (StarDist_Baseline.ipynb)
+* StarDist Sequential (StarDist_Sequential.ipynb)
 
 ## How to cite:
 ```
