@@ -18,14 +18,14 @@ setup(name='voidseg',
                   'This implementation extends CARE and uses Noise2Void and StarDist.',
       long_description=long_description,
       long_description_content_type='text/markdown',
-      url='https://github.com/juglab/VoidSeg_RC/',
+      url='https://github.com/juglab/VoidSeg/',
       author='Mangal Prakash, Tim-Oliver Buchholz, Manan Lalit, Florian Jug, Alexander Krull',
       author_email='prakash@mpi-cbg.de, tibuch@mpi-cbg.de, lalit@mpi-cbg.de, jug@mpi-cbg.de, krull@mpi-cbg.de',
       license='BSD 3-Clause License',
       packages=find_packages(),
 
       project_urls={
-          'Repository': 'https://github.com/juglab/VoidSeg_RC/',
+          'Repository': 'https://github.com/juglab/VoidSeg/',
       },
 
       classifiers=[
