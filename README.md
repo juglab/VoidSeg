@@ -1,5 +1,5 @@
 # VoidSeg: Leveraging Self-Supervised Denoising for Image Segmentation 
-Mangal Prakash, Tim-Oliver Buccholz, Manan Lalit, Pavel Tomancak, Florian Jug<sup>1</sup>, Alexander Krull<sup>1</sup>
+Mangal Prakash, Tim-Oliver Buchholz, Manan Lalit, Pavel Tomancak, Florian Jug<sup>1</sup>, Alexander Krull<sup>1</sup>
 
 <sup>1</sup>Joint supervision
 
